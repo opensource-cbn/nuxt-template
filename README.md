@@ -36,3 +36,7 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+Credit:
+- Bayu (https://github.com/beykun)
+- Defy Ma (https://github.com/defyma)
